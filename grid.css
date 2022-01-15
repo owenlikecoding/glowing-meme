@@ -1,0 +1,39 @@
+.row1 {
+    display: flex;
+}
+.row2 {
+display: flex;
+}
+.row3 {
+    display: flex;
+}
+.item1 {
+   flex: 1;
+    height: 50px;
+ 
+}
+.item2 {
+    flex: 1;
+    height: 50px;
+  
+}
+.item3 {
+    flex: 1;
+    height: 50px;
+   
+} 
+.item4 {
+    flex: 1;
+    height: 50px;
+    
+} 
+.item5 {
+    flex: 1;
+    height: 50px;
+   
+} 
+.item6 {
+    flex: 1;
+    height: 50px;
+   
+} 

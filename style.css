@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Lato:wght@300&family=Licorice&family=Merriweather:ital,wght@1,300&family=Playfair+Display:ital,wght@1,400;1,500&family=Poppins:wght@100&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro:wght@600&family=Source+Serif+4:ital,wght@1,200&family=Source+Serif+Pro:ital@1&family=Vujahday+Script&display=swap');
+
+body{
+    background-color: #242222;
+    text-align: center;
+}
+.container-a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    min-width: 100vh;
+    font-family: 'Lato', sans-serif;
+
+}
+.container-b {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    min-width: 100vh;
+    min-height: 100vh;
+    font-family: 'Lato', sans-serif;
+}
+.a {
+    width: 250px;
+    height: 250px;
+    background-color:  #00539CFF;
+    border-radius: 10px;
+}
+.b {
+    width: 250px;
+    height: 250px;
+    background-color:  #00539CFF;
+    border-radius: 10px;
+}
+.c {
+    width: 250px;
+    height: 250px;
+    background-color:  #FBEAEB;
+    border-radius: 10px;
+}
+.d {
+    width: 250px;
+    height: 250px;
+    background-color:  #00539CFF;
+    border-radius: 10px;
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.products {
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+}
+.a:hover {
+  position: relative;
+  top: 15px;
+  background-color: #EEA47FFF;
+  border: 1px solid #000000;
+}
+.b:hover {
+    position: relative;
+    top: 15px;
+    background-color: #EEA47FFF;
+    border: 1px solid #000000;
+  }
+ .about {
+    height: 300px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+ } 
+ .header {
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+ }
+ h3{
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+ article {
+    font-family: 'Lato', sans-serif;
+ }
+ li {
+     text-align: left;
+     font-family: 'Lato', sans-serif;
+ }
+ button{
+     background-color: transparent;
+     border: none;
+ }
